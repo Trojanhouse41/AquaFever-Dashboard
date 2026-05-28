@@ -1,0 +1,24 @@
+county,year,month,cases
+Kisumu,2020,1,245
+Kisumu,2020,2,268
+Kisumu,2020,3,312
+Kisumu,2020,4,289
+Kisumu,2020,5,256
+Kisumu,2020,6,234
+Homa Bay,2020,1,278
+Homa Bay,2020,2,295
+Homa Bay,2020,3,334
+Homa Bay,2020,4,312
+Migori,2020,1,212
+Migori,2020,2,234
+Migori,2020,3,267
+Nairobi,2020,1,78
+Nairobi,2020,2,85
+Nairobi,2020,3,92
+Kisumu,2021,1,250
+Kisumu,2021,2,270
+Kisumu,2021,3,315
+Homa Bay,2021,1,280
+Homa Bay,2021,2,300
+Migori,2021,1,220
+Nairobi,2021,1,80

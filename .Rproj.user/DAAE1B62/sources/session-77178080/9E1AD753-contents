@@ -1,0 +1,16 @@
+Package: AquaFever
+Title: Rainfall-Driven Malaria Monitoring System
+Version: 1.0
+Author: Sandra Adhiambo (24/05568)
+Description: Predictive malaria monitoring using rainfall data for 4 Kenyan counties
+
+Depends:
+  R (>= 4.2.0)
+Imports:
+  shiny,
+shinydashboard,
+tidyverse,
+plotly,
+leaflet,
+sf,
+htmlwidgets
